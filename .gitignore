@@ -9,3 +9,8 @@ uploadlavorodigruppo/
 desktop/bin/
 web/target/
 web/uploads/
+
+# Compilati e file di sistema
+*.class
+out/
+*.bak
